@@ -1,0 +1,11 @@
+D:\RiderProject\LibraryManagement\LibraryManagement.Contracts\bin\Debug\net9.0\LibraryManagement.Contracts.deps.json
+D:\RiderProject\LibraryManagement\LibraryManagement.Contracts\bin\Debug\net9.0\LibraryManagement.Contracts.dll
+D:\RiderProject\LibraryManagement\LibraryManagement.Contracts\bin\Debug\net9.0\LibraryManagement.Contracts.pdb
+D:\RiderProject\LibraryManagement\LibraryManagement.Contracts\obj\Debug\net9.0\LibraryManagement.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProject\LibraryManagement\LibraryManagement.Contracts\obj\Debug\net9.0\LibraryManagement.Contracts.AssemblyInfoInputs.cache
+D:\RiderProject\LibraryManagement\LibraryManagement.Contracts\obj\Debug\net9.0\LibraryManagement.Contracts.AssemblyInfo.cs
+D:\RiderProject\LibraryManagement\LibraryManagement.Contracts\obj\Debug\net9.0\LibraryManagement.Contracts.csproj.CoreCompileInputs.cache
+D:\RiderProject\LibraryManagement\LibraryManagement.Contracts\obj\Debug\net9.0\LibraryManagement.Contracts.dll
+D:\RiderProject\LibraryManagement\LibraryManagement.Contracts\obj\Debug\net9.0\refint\LibraryManagement.Contracts.dll
+D:\RiderProject\LibraryManagement\LibraryManagement.Contracts\obj\Debug\net9.0\LibraryManagement.Contracts.pdb
+D:\RiderProject\LibraryManagement\LibraryManagement.Contracts\obj\Debug\net9.0\ref\LibraryManagement.Contracts.dll

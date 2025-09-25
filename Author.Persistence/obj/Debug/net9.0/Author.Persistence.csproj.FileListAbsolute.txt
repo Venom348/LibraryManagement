@@ -1,0 +1,17 @@
+D:\RiderProject\LibraryManagement\Author.Persistence\bin\Debug\net9.0\Author.Persistence.deps.json
+D:\RiderProject\LibraryManagement\Author.Persistence\bin\Debug\net9.0\Author.Persistence.dll
+D:\RiderProject\LibraryManagement\Author.Persistence\bin\Debug\net9.0\Author.Persistence.pdb
+D:\RiderProject\LibraryManagement\Author.Persistence\bin\Debug\net9.0\Author.Core.dll
+D:\RiderProject\LibraryManagement\Author.Persistence\bin\Debug\net9.0\LibraryManagement.Contracts.dll
+D:\RiderProject\LibraryManagement\Author.Persistence\bin\Debug\net9.0\Author.Core.pdb
+D:\RiderProject\LibraryManagement\Author.Persistence\bin\Debug\net9.0\LibraryManagement.Contracts.pdb
+D:\RiderProject\LibraryManagement\Author.Persistence\obj\Debug\net9.0\Author.Persistence.csproj.AssemblyReference.cache
+D:\RiderProject\LibraryManagement\Author.Persistence\obj\Debug\net9.0\Author.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProject\LibraryManagement\Author.Persistence\obj\Debug\net9.0\Author.Persistence.AssemblyInfoInputs.cache
+D:\RiderProject\LibraryManagement\Author.Persistence\obj\Debug\net9.0\Author.Persistence.AssemblyInfo.cs
+D:\RiderProject\LibraryManagement\Author.Persistence\obj\Debug\net9.0\Author.Persistence.csproj.CoreCompileInputs.cache
+D:\RiderProject\LibraryManagement\Author.Persistence\obj\Debug\net9.0\Author.P.28AB9765.Up2Date
+D:\RiderProject\LibraryManagement\Author.Persistence\obj\Debug\net9.0\Author.Persistence.dll
+D:\RiderProject\LibraryManagement\Author.Persistence\obj\Debug\net9.0\refint\Author.Persistence.dll
+D:\RiderProject\LibraryManagement\Author.Persistence\obj\Debug\net9.0\Author.Persistence.pdb
+D:\RiderProject\LibraryManagement\Author.Persistence\obj\Debug\net9.0\ref\Author.Persistence.dll

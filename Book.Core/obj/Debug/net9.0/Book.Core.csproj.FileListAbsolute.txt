@@ -1,0 +1,15 @@
+D:\RiderProject\LibraryManagement\Book.Core\bin\Debug\net9.0\Book.Core.deps.json
+D:\RiderProject\LibraryManagement\Book.Core\bin\Debug\net9.0\Book.Core.dll
+D:\RiderProject\LibraryManagement\Book.Core\bin\Debug\net9.0\Book.Core.pdb
+D:\RiderProject\LibraryManagement\Book.Core\bin\Debug\net9.0\LibraryManagement.Contracts.dll
+D:\RiderProject\LibraryManagement\Book.Core\bin\Debug\net9.0\LibraryManagement.Contracts.pdb
+D:\RiderProject\LibraryManagement\Book.Core\obj\Debug\net9.0\Book.Core.csproj.AssemblyReference.cache
+D:\RiderProject\LibraryManagement\Book.Core\obj\Debug\net9.0\Book.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProject\LibraryManagement\Book.Core\obj\Debug\net9.0\Book.Core.AssemblyInfoInputs.cache
+D:\RiderProject\LibraryManagement\Book.Core\obj\Debug\net9.0\Book.Core.AssemblyInfo.cs
+D:\RiderProject\LibraryManagement\Book.Core\obj\Debug\net9.0\Book.Core.csproj.CoreCompileInputs.cache
+D:\RiderProject\LibraryManagement\Book.Core\obj\Debug\net9.0\Book.Core.csproj.Up2Date
+D:\RiderProject\LibraryManagement\Book.Core\obj\Debug\net9.0\Book.Core.dll
+D:\RiderProject\LibraryManagement\Book.Core\obj\Debug\net9.0\refint\Book.Core.dll
+D:\RiderProject\LibraryManagement\Book.Core\obj\Debug\net9.0\Book.Core.pdb
+D:\RiderProject\LibraryManagement\Book.Core\obj\Debug\net9.0\ref\Book.Core.dll

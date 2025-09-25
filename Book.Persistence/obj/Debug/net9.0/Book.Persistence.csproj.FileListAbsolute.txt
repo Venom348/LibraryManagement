@@ -1,0 +1,17 @@
+D:\RiderProject\LibraryManagement\Book.Persistence\bin\Debug\net9.0\Book.Persistence.deps.json
+D:\RiderProject\LibraryManagement\Book.Persistence\bin\Debug\net9.0\Book.Persistence.dll
+D:\RiderProject\LibraryManagement\Book.Persistence\bin\Debug\net9.0\Book.Persistence.pdb
+D:\RiderProject\LibraryManagement\Book.Persistence\bin\Debug\net9.0\Book.Core.dll
+D:\RiderProject\LibraryManagement\Book.Persistence\bin\Debug\net9.0\LibraryManagement.Contracts.dll
+D:\RiderProject\LibraryManagement\Book.Persistence\bin\Debug\net9.0\Book.Core.pdb
+D:\RiderProject\LibraryManagement\Book.Persistence\bin\Debug\net9.0\LibraryManagement.Contracts.pdb
+D:\RiderProject\LibraryManagement\Book.Persistence\obj\Debug\net9.0\Book.Persistence.csproj.AssemblyReference.cache
+D:\RiderProject\LibraryManagement\Book.Persistence\obj\Debug\net9.0\Book.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProject\LibraryManagement\Book.Persistence\obj\Debug\net9.0\Book.Persistence.AssemblyInfoInputs.cache
+D:\RiderProject\LibraryManagement\Book.Persistence\obj\Debug\net9.0\Book.Persistence.AssemblyInfo.cs
+D:\RiderProject\LibraryManagement\Book.Persistence\obj\Debug\net9.0\Book.Persistence.csproj.CoreCompileInputs.cache
+D:\RiderProject\LibraryManagement\Book.Persistence\obj\Debug\net9.0\Book.Per.EA00C161.Up2Date
+D:\RiderProject\LibraryManagement\Book.Persistence\obj\Debug\net9.0\Book.Persistence.dll
+D:\RiderProject\LibraryManagement\Book.Persistence\obj\Debug\net9.0\refint\Book.Persistence.dll
+D:\RiderProject\LibraryManagement\Book.Persistence\obj\Debug\net9.0\Book.Persistence.pdb
+D:\RiderProject\LibraryManagement\Book.Persistence\obj\Debug\net9.0\ref\Book.Persistence.dll
