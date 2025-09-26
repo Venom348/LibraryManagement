@@ -29,4 +29,10 @@ public interface IBaseRepository<TEntity> where TEntity : Entity
     /// </summary>
     /// <param name="entity">Сущность</param>
     Task<TEntity> Delete(TEntity entity);
+    
+    /// <summary>
+    /// Асинхронный вспомогательный метод сохранения
+    /// </summary>
+    /// <returns></returns>
+    Task<int> SaveChangesAsync();
 }

@@ -35,6 +35,6 @@ public class UserRepository : IBaseRepository<LibraryManagement.Contracts.Entiti
         return entity;
     }
     
-    // Асинхронный вспомогательный метод сохранения
+    // Метод сохранения
     public async Task<int> SaveChangesAsync() => await _dbContext.SaveChangesAsync();
 }

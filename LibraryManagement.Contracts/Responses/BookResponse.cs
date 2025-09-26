@@ -1,5 +1,8 @@
 ﻿namespace LibraryManagement.Contracts.Responses;
 
+/// <summary>
+///     Краткая информация о книге
+/// </summary>
 public class BookResponse
 {
     /// <summary>
