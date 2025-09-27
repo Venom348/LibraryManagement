@@ -1,4 +1,6 @@
-﻿using AutoMapper;
+﻿using System.Security.Cryptography;
+using System.Text;
+using AutoMapper;
 using LibraryManagement.Contracts.Requests.User;
 using LibraryManagement.Contracts.Responses;
 using LibraryManagement.Contracts.Responses.User;
@@ -23,27 +25,34 @@ public class UserService : IUserService
 
     public async Task<List<UserDescriptionResponse>> Get(string email)
     {
+        var result = await _userRepository.GetAll().FirstOrDefaultAsync(x => x.Email == email);
+        
         // Если поле Email не пустое, то ищет пользователя по полю Email
         if (email != null)
         {
-            var result = await _userRepository.GetAll().FirstOrDefaultAsync(x => x.Email == email);
-            
             // Если Email не найдет, выбрасывает исключение
             if (result is null)
             {
                 throw new UserException("Пользователь с таким Email не найден. Повторите попытку или зарегистрируйтесь.");
             }
-            
-            // Возвращает пользователя в виде списка из одного элемента через маппинг
-            return new List<UserDescriptionResponse>([_mapper.Map<UserDescriptionResponse>(result)]);
         }
         
         // Если ничего не нашло, выбрасывает исключение
-        throw new UserException("Результат не найден. Попробуйте зарегистрироваться.");
+        if (email == null)
+        {
+            throw new UserException("Результат не найден. Попробуйте зарегистрироваться.");
+        }
+        
+        // Возвращает пользователя в виде списка из одного элемента через маппинг
+        return new List<UserDescriptionResponse>([_mapper.Map<UserDescriptionResponse>(result)]);
     }
 
     public async Task<UserDescriptionResponse> Update(PatchUserRequest request)
     {
+        // Хешированние пароля
+        var passwordHash = GetHashedPassword(request.Password);
+        request.Password = passwordHash;
+        
         // Проверка существования пользователя по ID, если такого нет - выбрасывает исключение
         var result = await _userRepository.GetById(request.Id);
 
@@ -79,5 +88,17 @@ public class UserService : IUserService
         
         // Возвращает информацию об удалённом пользователе через маппинг
         return _mapper.Map<UserResponse>(result);
+    }
+    
+    /// <summary>
+    ///     Метод для хешированния пароля
+    /// </summary>
+    /// <param name="password">Пароль пользователя</param>
+    /// <returns></returns>
+    private string GetHashedPassword(string password)
+    {
+        using var sha = SHA256.Create();
+        var data = sha.ComputeHash(Encoding.ASCII.GetBytes(password));
+        return Encoding.ASCII.GetString(data);
     }
 }

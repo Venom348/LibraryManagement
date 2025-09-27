@@ -2,6 +2,9 @@
 
 namespace Auth.Core.Abstractions.Repositories;
 
+/// <summary>
+///     Базовый интерфейс для взаимодействия с сущностями в БД
+/// </summary>
 public interface IBaseRepository<TEntity> where TEntity : Entity
 {
     /// <summary>
@@ -16,4 +19,10 @@ public interface IBaseRepository<TEntity> where TEntity : Entity
     /// <param name="entity">Сущность</param>
     /// <returns></returns>
     Task<TEntity> Create(TEntity entity);
+    
+    /// <summary>
+    /// Асинхронный вспомогательный метод сохранения
+    /// </summary>
+    /// <returns></returns>
+    Task<int> SaveChangesAsync();
 }

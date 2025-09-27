@@ -54,3 +54,14 @@ D:\RiderProject\LibraryManagement\User.API\obj\Debug\net9.0\refint\User.API.dll
 D:\RiderProject\LibraryManagement\User.API\obj\Debug\net9.0\User.API.pdb
 D:\RiderProject\LibraryManagement\User.API\obj\Debug\net9.0\User.API.genruntimeconfig.cache
 D:\RiderProject\LibraryManagement\User.API\obj\Debug\net9.0\ref\User.API.dll
+D:\RiderProject\LibraryManagement\User.API\bin\Debug\net9.0\AutoMapper.dll
+D:\RiderProject\LibraryManagement\User.API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\RiderProject\LibraryManagement\User.API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\RiderProject\LibraryManagement\User.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\RiderProject\LibraryManagement\User.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\RiderProject\LibraryManagement\User.API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\RiderProject\LibraryManagement\User.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\RiderProject\LibraryManagement\User.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\RiderProject\LibraryManagement\User.API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\RiderProject\LibraryManagement\User.API\bin\Debug\net9.0\Auth.Core.dll
+D:\RiderProject\LibraryManagement\User.API\bin\Debug\net9.0\Auth.Core.pdb

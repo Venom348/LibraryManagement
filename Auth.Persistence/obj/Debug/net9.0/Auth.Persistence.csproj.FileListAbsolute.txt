@@ -1,0 +1,17 @@
+D:\RiderProject\LibraryManagement\Auth.Persistence\bin\Debug\net9.0\Auth.Persistence.deps.json
+D:\RiderProject\LibraryManagement\Auth.Persistence\bin\Debug\net9.0\Auth.Persistence.dll
+D:\RiderProject\LibraryManagement\Auth.Persistence\bin\Debug\net9.0\Auth.Persistence.pdb
+D:\RiderProject\LibraryManagement\Auth.Persistence\bin\Debug\net9.0\Auth.Core.dll
+D:\RiderProject\LibraryManagement\Auth.Persistence\bin\Debug\net9.0\LibraryManagement.Contracts.dll
+D:\RiderProject\LibraryManagement\Auth.Persistence\bin\Debug\net9.0\Auth.Core.pdb
+D:\RiderProject\LibraryManagement\Auth.Persistence\bin\Debug\net9.0\LibraryManagement.Contracts.pdb
+D:\RiderProject\LibraryManagement\Auth.Persistence\obj\Debug\net9.0\Auth.Persistence.csproj.AssemblyReference.cache
+D:\RiderProject\LibraryManagement\Auth.Persistence\obj\Debug\net9.0\Auth.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProject\LibraryManagement\Auth.Persistence\obj\Debug\net9.0\Auth.Persistence.AssemblyInfoInputs.cache
+D:\RiderProject\LibraryManagement\Auth.Persistence\obj\Debug\net9.0\Auth.Persistence.AssemblyInfo.cs
+D:\RiderProject\LibraryManagement\Auth.Persistence\obj\Debug\net9.0\Auth.Persistence.csproj.CoreCompileInputs.cache
+D:\RiderProject\LibraryManagement\Auth.Persistence\obj\Debug\net9.0\Auth.Per.CB5EA4C2.Up2Date
+D:\RiderProject\LibraryManagement\Auth.Persistence\obj\Debug\net9.0\Auth.Persistence.dll
+D:\RiderProject\LibraryManagement\Auth.Persistence\obj\Debug\net9.0\refint\Auth.Persistence.dll
+D:\RiderProject\LibraryManagement\Auth.Persistence\obj\Debug\net9.0\Auth.Persistence.pdb
+D:\RiderProject\LibraryManagement\Auth.Persistence\obj\Debug\net9.0\ref\Auth.Persistence.dll

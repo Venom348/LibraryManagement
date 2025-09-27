@@ -3,7 +3,7 @@
 namespace User.Persistence;
 
 /// <summary>
-///     Модель для подключения к БД (PostgreSQL)
+///     Модель для подключения к БД (User)
 /// </summary>
 public class ApplicationContext : DbContext
 {

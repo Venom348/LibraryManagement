@@ -4,6 +4,9 @@ using LibraryManagement.Contracts.Requests.User;
 
 namespace Auth.API.Controllers;
 
+/// <summary>
+///     Контроллер аутентификации
+/// </summary>
 [ApiController]
 [Route("api/authentication")]
 public class AuthController : Controller

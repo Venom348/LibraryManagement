@@ -1,0 +1,15 @@
+D:\RiderProject\LibraryManagement\Auth.Core\bin\Debug\net9.0\Auth.Core.deps.json
+D:\RiderProject\LibraryManagement\Auth.Core\bin\Debug\net9.0\Auth.Core.dll
+D:\RiderProject\LibraryManagement\Auth.Core\bin\Debug\net9.0\Auth.Core.pdb
+D:\RiderProject\LibraryManagement\Auth.Core\bin\Debug\net9.0\LibraryManagement.Contracts.dll
+D:\RiderProject\LibraryManagement\Auth.Core\bin\Debug\net9.0\LibraryManagement.Contracts.pdb
+D:\RiderProject\LibraryManagement\Auth.Core\obj\Debug\net9.0\Auth.Core.csproj.AssemblyReference.cache
+D:\RiderProject\LibraryManagement\Auth.Core\obj\Debug\net9.0\Auth.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProject\LibraryManagement\Auth.Core\obj\Debug\net9.0\Auth.Core.AssemblyInfoInputs.cache
+D:\RiderProject\LibraryManagement\Auth.Core\obj\Debug\net9.0\Auth.Core.AssemblyInfo.cs
+D:\RiderProject\LibraryManagement\Auth.Core\obj\Debug\net9.0\Auth.Core.csproj.CoreCompileInputs.cache
+D:\RiderProject\LibraryManagement\Auth.Core\obj\Debug\net9.0\Auth.Core.csproj.Up2Date
+D:\RiderProject\LibraryManagement\Auth.Core\obj\Debug\net9.0\Auth.Core.dll
+D:\RiderProject\LibraryManagement\Auth.Core\obj\Debug\net9.0\refint\Auth.Core.dll
+D:\RiderProject\LibraryManagement\Auth.Core\obj\Debug\net9.0\Auth.Core.pdb
+D:\RiderProject\LibraryManagement\Auth.Core\obj\Debug\net9.0\ref\Auth.Core.dll
